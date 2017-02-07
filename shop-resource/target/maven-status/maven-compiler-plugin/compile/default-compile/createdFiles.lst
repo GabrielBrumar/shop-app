@@ -1,0 +1,11 @@
+com\shop\app\common\model\HttpCode.class
+com\shop\app\category\resource\CategoryJsonConverter.class
+com\shop\app\common\json\JsonReader.class
+com\shop\app\common\model\OperationResult.class
+com\shop\app\common\exception\InvalidJsonException.class
+com\shop\app\common\json\JsonUtils.class
+com\shop\app\common\json\OperationResultJsonWriter.class
+com\shop\app\common\model\ResourceMessage.class
+com\shop\app\common\model\StandardsOperationResults.class
+com\shop\app\category\resource\CategoryResource.class
+com\shop\app\common\json\JsonWriter.class
