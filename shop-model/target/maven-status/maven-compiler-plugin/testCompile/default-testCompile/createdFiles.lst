@@ -1,6 +1,5 @@
-com\shop\app\commontests\category\CategoryForTestsRepository.class
-com\shop\app\commontests\utils\TestRepositoryEJB.class
-com\shop\app\commontests\utils\DBCommandTransactionalExecutor.class
-com\shop\app\category\services\impl\CategoryServicesUTest.class
 com\shop\app\commontests\utils\DBCommand.class
-com\shop\app\category\repository\CategoryRepositoryUTest.class
+com\shop\app\commontests\product\ProductsForTest.class
+com\shop\app\product\services\impl\ProductServicesTest.class
+com\shop\app\commontests\utils\DBCommandTransactionalExecutor.class
+com\shop\app\product\repository\ProductRepositoryTest.class

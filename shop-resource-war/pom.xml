@@ -29,7 +29,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.shop</groupId>
-			<artifactId>shop-resource</artifactId>
+			<artifactId>shop-model</artifactId>
 		</dependency>
 	</dependencies>
 

@@ -1,6 +1,5 @@
-C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\commontests\utils\TestRepositoryEJB.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\commontests\category\CategoryForTestsRepository.java
 C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\commontests\utils\DBCommandTransactionalExecutor.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\commontests\product\ProductsForTest.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\product\repository\ProductRepositoryTest.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\product\services\impl\ProductServicesTest.java
 C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\commontests\utils\DBCommand.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\category\repository\CategoryRepositoryUTest.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\test\java\com\shop\app\category\services\impl\CategoryServicesUTest.java

@@ -104,17 +104,6 @@
 			</dependency>
 			<dependency>
 				<groupId>com.shop</groupId>
-				<artifactId>shop-resource</artifactId>
-				<version>${project.version}</version>
-			</dependency>
-			<dependency>
-				<groupId>com.shop</groupId>
-				<artifactId>shop-resource</artifactId>
-				<version>${project.version}</version>
-				<type>test-jar</type>
-			</dependency>
-			<dependency>
-				<groupId>com.shop</groupId>
 				<artifactId>shop-resource-war</artifactId>
 				<version>${project.version}</version>
 				<type>war</type>
@@ -176,8 +165,6 @@
 
 	<modules>
 		<module>shop-model</module>
-		<module>shop-resource</module>
-		<module>shop-int-tests</module>
 		<module>shop-resource-war</module>
 		<module>shop-ear</module>
 	</modules>

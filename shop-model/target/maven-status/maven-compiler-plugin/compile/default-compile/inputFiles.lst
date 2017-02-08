@@ -1,7 +1,5 @@
 C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\common\exception\FieldNotValidException.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\repository\CategoryRepository.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\services\impl\CategoryServicesImpl.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\model\Category.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\exception\CategoryExistentException.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\services\CategoryServices.java
-C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\category\exception\CategoryNotFoundException.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\product\services\ProductServices.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\product\services\impl\ProductServicesImpl.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\product\repository\ProductRepository.java
+C:\Users\Gabi\workspace\shop-app\shop-model\src\main\java\com\shop\app\product\model\Product.java

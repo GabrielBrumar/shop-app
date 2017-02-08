@@ -8,11 +8,5 @@
         <dependent-module archiveName="shop-model-0.0.1-SNAPSHOT.jar" deploy-path="/" handle="module:/resource/shop-model/shop-model">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="shop-resource-0.0.1-SNAPSHOT.jar" deploy-path="/lib/" handle="module:/resource/shop-resource/shop-resource">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-        <dependent-module archiveName="gson-2.3.1.jar" deploy-path="/lib/" handle="module:/classpath/var/M2_REPO/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar">
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
     </wb-module>
 </project-modules>
