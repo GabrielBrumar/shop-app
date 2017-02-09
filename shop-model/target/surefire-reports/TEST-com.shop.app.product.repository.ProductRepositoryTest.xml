@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.shop.app.product.repository.ProductRepositoryTest" time="2.608" tests="5" errors="0" skipped="0" failures="0">
+<testsuite name="com.shop.app.product.repository.ProductRepositoryTest" time="2.52" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
@@ -21,14 +21,14 @@
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\Gabi\.babun\cygwin\tmp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\Gabi\AppData\Local\Temp\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Gabi\apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="classworlds.conf" value="C:\Users\Gabi\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5971439875608906479.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Gabi\.babun\cygwin\usr\local\bin;C:\Users\Gabi\.babun\cygwin\bin;C:\Users\Gabi\.babun\cygwin\home\Gabi\.local\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone;C:\Program Files\MySQL\MySQL Utilities 1.6;C:\Users\Gabi\apache-maven-3.3.9\bin;C:\Users\Gabi\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\Gabi\apache-maven-3.3.9\bin;C:\Users\Gabi\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -39,11 +39,11 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="user.name" value="Gabi"/>
-    <property name="java.class.path" value="C:\Users\Gabi\apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\Users\Gabi\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -60,9 +60,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testAddAndRetrieveProduct" classname="com.shop.app.product.repository.ProductRepositoryTest" time="2.08"/>
-  <testcase name="testFindAllProducts" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.204"/>
-  <testcase name="testDeleteProduct" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.104"/>
-  <testcase name="testFindProductByIdNotFound" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.115"/>
-  <testcase name="testFindProductByIdWithNullId" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.105"/>
+  <testcase name="testAddAndRetrieveProduct" classname="com.shop.app.product.repository.ProductRepositoryTest" time="2.076"/>
+  <testcase name="testFindAllProducts" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.21"/>
+  <testcase name="testDeleteProduct" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.086"/>
+  <testcase name="testFindProductByIdNotFound" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.077"/>
+  <testcase name="testFindProductByIdWithNullId" classname="com.shop.app.product.repository.ProductRepositoryTest" time="0.071"/>
 </testsuite>
